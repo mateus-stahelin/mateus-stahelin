@@ -1,4 +1,4 @@
-# 🚀 [Bem-vindo ao meu GitHub]
+# 🚀 Bem-vindo ao meu GitHub!
 
 <p align="center">
   <a href="#-trabalho">Trabalho</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
