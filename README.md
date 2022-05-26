@@ -26,6 +26,11 @@
 
 ## 📈 Habilidades
 
+- Comunicação e Colaboração
+- Organização e Planejamento
+- Adaptabilidade e Flexibilidade
+- Comprometimento e Atitude
+- Ética e Honestidade
 
 ## 📚 Aprendendo
 
