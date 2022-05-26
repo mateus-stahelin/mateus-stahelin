@@ -27,3 +27,5 @@
 ## 🤓 Encontre-me
 
 - [LinkedIn](https://www.linkedin.com/in/mateus-sagas-stahelin-03177275/)
+- [Instagram](https://www.instagram.com/mateusstahelin/)
+- [Twitter](https://twitter.com/mateustalin)
