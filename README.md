@@ -3,6 +3,7 @@
 <p align="center">
   <a href="#-trabalho">Trabalho</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-experiência">Experiência</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-formação">Formação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-habilidades">Habilidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-aprendendo">Aprendendo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-encontre-me">Encontre-me</a>&nbsp;&nbsp;&nbsp;
@@ -17,6 +18,11 @@
 
 ## 💻 Experiência
 
+
+## 👨‍🎓 Formação
+
+- Redes de Computadores ~ 2013 - [Estácio](https://estacio.br/cursos/graduacao/redes-de-computadores)
+- MBA Segurança Cibernética ~ 2022 - [IGTI](https://www.igti.com.br/pos-graduacao/seguranca-cibernetica)
 
 ## 📈 Habilidades
 
