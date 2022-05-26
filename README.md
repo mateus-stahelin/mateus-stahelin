@@ -21,14 +21,18 @@
 
 ## 👨‍🎓 Formação
 
-- Redes de Computadores ~ 2013 - [Estácio](https://estacio.br/cursos/graduacao/redes-de-computadores)
-- MBA Segurança Cibernética ~ 2022 - [IGTI](https://www.igti.com.br/pos-graduacao/seguranca-cibernetica)
+- [Redes de Computadores - 2013](https://estacio.br/cursos/graduacao/redes-de-computadores)
+- [MBA Segurança Cibernética - 2022](https://www.igti.com.br/pos-graduacao/seguranca-cibernetica)
 
 ## 📈 Habilidades
 
 
 ## 📚 Aprendendo
 
+- Inglês
+- Segurança da Informação
+- Cultura DevOps
+- Programação/Desenvolvimento de Software (HTML, CSS, JavaScript, React etc.)
 
 ## 🤓 Encontre-me
 
