@@ -1,8 +1,7 @@
 # 🚀 Bem-vindo ao meu GitHub!
 
 <p align="center">
-  <a href="#-trabalho">Trabalho</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-experiência">Experiência</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-trabalho-e-experiência">Trabalho e Experiência</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-formação-e-qualificações">Formação e Qualificações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-habilidades">Habilidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-aprendendo">Aprendendo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,11 +12,19 @@
 - Comments
 -->
 
-## 👨‍💻 Trabalho
+## 👨‍💻 Trabalho e Experiência
 
-
-## 💻 Experiência
-
+- Sou Bombeiro Militar no Corpo de Bombeiros Militar de Santa Catarina (CBMSC) e atuo como Analista de Infraestrutura de TI no Centro de Processamento de Dados e Redes (CPDR) da Instituição.
+- Possuo mais de 10 (dez) anos dedicados à infraestrutura e ao suporte de TI e atuei em diversas frentes nesse período: fui professor de informática, estagiário Trainee de TI, técnico de informática e analista de suporte e infraestrutura de datacenters.
+- Nesse período as minhas atividades foram desenvolvidas com ênfase em ambientes on-premises (arquitetura local), com foco em:
+  - servidores Linux (Ubuntu e CentOS);
+  - servidores Microsoft Windows (2012, 2016, 2019);
+  - segurança da informação;
+  - virtualização;
+  - backups e restores;
+  - gerenciamento de contas de usuários (AD, LDAP);
+  - serviços de email;
+  - monitoramento de infraestrutura de TI; entre outros.
 
 ## 👨‍🎓 Formação e Qualificações
 
